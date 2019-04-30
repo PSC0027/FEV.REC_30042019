@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_Record">Record</string>
+    <string name="title_Pause">Pause</string>
+
+    <string name="rpmButton_Description">Rpm</string>
+    <string name="fftButton_Description">FFT</string>
+    <string name="setButton_Description">Setting</string>
+    <string name="Image_RpmButton_Description">Image of RpmButton</string>
+    <string name="image_fftbutton_Description">Image of FFTButton</string>
+    <string name="image_of_setbutton_Description">Image of SetButton</string>
+    <string name="title_Back">back</string>
+    <string name="title_activity_fft">FFTActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Nema_TV_ChooseCylinderQuantity">Cylinder Quantity</string>
+    <string name="Name_TV_ChooseSamplingRate">Sampling Rate</string>
+    <string name="Name_TV_ChooseBlockSize">Block size of FFT</string>
+</resources>
